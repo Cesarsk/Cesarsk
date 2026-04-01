@@ -5,3 +5,6 @@ I like building useful things: small tools, experiments, personal infrastructure
 
 ## Connect with and send me a message
 [Website](https://lucacesarano.com)
+[Mail](mailto:luca.cesarano1@gmail.com)
+[X](https://x.com/lucearch)
+[LinkedIn](https://www.linkedin.com/in/luca-cesarano1/)
