@@ -10,7 +10,7 @@ Have a look at my public projects: [Public Repositories](https://github.com/Cesa
 - [LinkedIn](https://www.linkedin.com/in/luca-cesarano1/)
 
 ## Open Source Contributions
-- Merged PR to [unslothai/unsloth](https://github.com/unslothai/unsloth) - very popular AI repository to run and train AI models locally (67.4k★ / 6.1k forks).
+- Merged PR to [unslothai/unsloth](https://github.com/unslothai/unsloth) — very popular AI repository to run and train AI models locally (67.4k★ / 6.1k forks).
 - Multiple PRs to [runatlantis/atlantis](https://github.com/runatlantis/atlantis) — popular Terraform GitOps automation tool (9.2k★ / 1.3k forks).
 - Merged PR to [aws-samples](https://github.com/aws-samples/assignment-automation-4-aws-sso) — AWS’s official samples organisation, used globally for AWS reference
 implementations.
