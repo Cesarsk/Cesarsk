@@ -10,9 +10,10 @@ Have a look at my public projects: [Public Repositories](https://github.com/Cesa
 - [LinkedIn](https://www.linkedin.com/in/luca-cesarano1/)
 
 ## Open Source Contributions
-- Merged PRs to [runatlantis/atlantis](https://github.com/runatlantis/atlantis) — popular Terraform GitOps automation tool (9.2k★ / 1.3k forks).
+- Merged PR to [unslothai/unsloth](https://github.com/unslothai/unsloth) - very popular AI repository to run and train AI models locally (67.4k★ / 6.1k forks).
+- Multiple PRs to [runatlantis/atlantis](https://github.com/runatlantis/atlantis) — popular Terraform GitOps automation tool (9.2k★ / 1.3k forks).
 - Merged PR to [aws-samples](https://github.com/aws-samples/assignment-automation-4-aws-sso) — AWS’s official samples organisation, used globally for AWS reference
 implementations.
-- Merged PRs to [CalcProgrammer1/OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) — popular cross-platform hardware-RGB control tool (3k★ / 1.7k
+- Multiple PRs to [CalcProgrammer1/OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) — popular cross-platform hardware-RGB control tool (3k★ / 1.7k
 forks). My personal project kraken-unleashed is listed in OpenRGB’s README under “Related Projects”.
-- Multiple merged PRs to [zpix1/windisplay](https://github.com/zpix1/windisplay) — open-source Windows brightness control over HDMI.
+- Multiple PRs to [zpix1/windisplay](https://github.com/zpix1/windisplay) — open-source Windows brightness control over HDMI.
