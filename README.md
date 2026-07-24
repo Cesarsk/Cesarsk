@@ -3,6 +3,8 @@ I like building useful things: small tools, experiments, personal infrastructure
 
 Have a look at my public projects: [Public Repositories](https://github.com/Cesarsk?tab=repositories&q=&type=public&language=&sort=stargazers)
 
+Featured project: [ike](https://github.com/Cesarsk/ike) — a k9s-style terminal UI for Datadog (`brew install cesarsk/tap/ike`), developed end-to-end by directing agentic AI workflows.
+
 ## Connect with and send me a message
 - [Website](https://lucacesarano.com)
 - [Mail](mailto:luca.cesarano1@gmail.com)
@@ -12,6 +14,8 @@ Have a look at my public projects: [Public Repositories](https://github.com/Cesa
 ## Open Source Contributions
 - Merged PR to [unslothai/unsloth](https://github.com/unslothai/unsloth) — very popular AI repository to run and train AI models locally (67.4k★ / 6.1k forks).
 - Multiple PRs to [runatlantis/atlantis](https://github.com/runatlantis/atlantis) — popular Terraform GitOps automation tool (9.2k★ / 1.3k forks).
+- Merged PR to [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) — the official Datadog Terraform provider (480M+ registry downloads).
+- Merged PR to [gitlab-org/terraform-provider-gitlab](https://gitlab.com/gitlab-org/terraform-provider-gitlab) — the official GitLab Terraform provider (160M+ registry downloads).
 - Merged PR to [aws-samples](https://github.com/aws-samples/assignment-automation-4-aws-sso) — AWS’s official samples organisation, used globally for AWS reference
 implementations.
 - Multiple PRs to [CalcProgrammer1/OpenRGB](https://gitlab.com/CalcProgrammer1/OpenRGB) — popular cross-platform hardware-RGB control tool (3k★ / 1.7k
