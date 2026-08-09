@@ -12,7 +12,7 @@ Featured project: [ike](https://github.com/Cesarsk/ike) — a k9s-style terminal
 - [LinkedIn](https://www.linkedin.com/in/luca-cesarano1/)
 
 ## Open Source Contributions
-- Merged PR to [unslothai/unsloth](https://github.com/unslothai/unsloth) — very popular AI repository to run and train AI models locally (67.4k★ / 6.1k forks).
+- Multiple PRs merged to [unslothai/unsloth](https://github.com/unslothai/unsloth) — very popular AI repository to run and train AI models locally (67.4k★ / 6.1k forks).
 - Multiple PRs to [runatlantis/atlantis](https://github.com/runatlantis/atlantis) — popular Terraform GitOps automation tool (9.2k★ / 1.3k forks).
 - Multiple PRs merged to [DataDog/terraform-provider-datadog](https://github.com/DataDog/terraform-provider-datadog) — the official Datadog Terraform provider (480M+ registry downloads).
 - Merged PR to [gitlab-org/terraform-provider-gitlab](https://gitlab.com/gitlab-org/terraform-provider-gitlab) — the official GitLab Terraform provider (160M+ registry downloads).
